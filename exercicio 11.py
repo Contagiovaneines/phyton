@@ -1,0 +1,12 @@
+n1=0;
+n2=0;
+n3=0.0;
+n1=int(input("qual é o primeiro numero inteiro:"));
+n2=int(input("qual é o segundo numero inteiro:"));
+n3=float(input("qual é o numero real:"));
+produto=(2*n1)*(n2/2)
+soma=(3*n1)+ n3
+cubo=n3**3
+print("produto=",produto)
+print("soma=",soma)
+print("cubo=",cubo)
